@@ -79,13 +79,13 @@ framework
 <!--lint ignore awesome-list-item-->
 
 - [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
-<!--lint ignore awesome-list-item-->
+<!--lint ignore-->
 - [Tutorial](https://docs.litestar.dev/2/tutorials/) on Litestar, for people that are new to Litestar.
-<!--lint ignore awesome-list-item-->
+<!--lint ignore-->
 - [Source Code](https://github.com/litestar-org/litestar) is hosted on GitHub.
 <!--lint ignore-->
 - Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/LitestarAPI/).
-<!--lint ignore awesome-list-item-->
+<!--lint ignore-->
 - [Litestar Blog](https://blog.litestar.dev/) - The official Litestar blog.
 
 #### Internal Utils
@@ -130,6 +130,8 @@ framework
 
 #### ODMs
 
+<!--lint disable no-undefined-references-->
+
 > [!NOTE]
 > TODO
 
@@ -151,6 +153,8 @@ framework
 ### External Resources
 
 ### Podcasts
+
+<!--lint disable no-undefined-references-->
 
 > [!NOTE]
 > Coming Soon :)
@@ -227,6 +231,8 @@ framework
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/zx1KGh?referralCode=BMcs0x)
 
 #### Docker Images
+
+<!--lint disable no-undefined-references-->
 
 > [!NOTE]
 > Coming Soon :)
