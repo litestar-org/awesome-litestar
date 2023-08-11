@@ -1,5 +1,4 @@
-<!--lint ignore awesome-git-repo-age-->
-<!--lint ignore awesome-toc-->
+<!--lint ignore-->
 <!--lint disable double-link-->
 
 <!-- markdownlint-disable -->
