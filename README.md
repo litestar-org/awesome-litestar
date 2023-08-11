@@ -72,7 +72,7 @@ framework
 ### Official Resources
 
 - [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
-- [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
+- [Tutorial](https://docs.litestar.dev/2/tutorials/) on Litestar, for people that are new to Litestar.
 - [Source Code](https://github.com/litestar-org/litestar) is hosted on GitHub.
 - Connect with the Litestar community
   on [Discord](https://discord.gg/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI),
