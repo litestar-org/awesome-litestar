@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 <!-- markdownlint-disable -->
 <p align="center">
   <!-- github-banner-start -->
@@ -10,19 +11,17 @@
 <div align="center">
 <!-- prettier-ignore-start -->
 
-| Project   |     | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --------- | :-- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CI/CD     |     | [![CI](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml) [![Link Check](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Community |     | [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/litestarapi?label=r%2FLitestar&logo=reddit&labelColor=202235&color=edb641&logoColor=edb641)](https://reddit.com/r/litestarapi) [![Discord](https://img.shields.io/discord/919193495116337154?labelColor=202235&color=edb641&label=chat%20on%20discord&logo=discord&logoColor=edb641)](https://discord.gg/X3FJqy8d2j) [![Matrix](https://img.shields.io/badge/chat%20on%20Matrix-bridged-202235?labelColor=202235&color=edb641&logo=matrix&logoColor=edb641)](https://matrix.to/#/#litestar:matrix.org) [![Twitter](https://img.shields.io/twitter/follow/LitestarAPI?labelColor=202235&color=edb641&logo=twitter&logoColor=edb641&style=flat)](https://twitter.com/LitestarAPI) [![Blog](https://img.shields.io/badge/Blog-litestar.dev-202235?logo=blogger&labelColor=202235&color=edb641&logoColor=edb641)](https://blog.litestar.dev) |
-| Meta      |     | [![Litestar Project](https://img.shields.io/badge/Litestar%20Org-%E2%AD%90%20Litestar-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://github.com/litestar-org/awesome-litestar) [![Awesome](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/litestar-org/branding/main/assets/awesome.json)](https://github.com/litestar-org/awesome-litestar) [![License - MIT](https://img.shields.io/badge/license-MIT-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://spdx.org/licenses/) [![Litestar Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23edb641.svg?&logo=github&logoColor=edb641&labelColor=202235)](https://github.com/sponsors/litestar-org)                                                                                                                                                    |
+| Project   |     | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------- | :-- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CI/CD     |     | [![CI](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml) [![Link Check](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Community |     | [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/litestarapi?label=r%2FLitestar&logo=reddit&labelColor=202235&color=edb641&logoColor=edb641)](https://reddit.com/r/litestarapi) [![Discord](https://img.shields.io/discord/919193495116337154?labelColor=202235&color=edb641&label=chat%20on%20discord&logo=discord&logoColor=edb641)](https://discord.com/invite/X3FJqy8d2j) [![Matrix](https://img.shields.io/badge/chat%20on%20Matrix-bridged-202235?labelColor=202235&color=edb641&logo=matrix&logoColor=edb641)](https://matrix.to/#/#litestar:matrix.org) [![Twitter](https://img.shields.io/twitter/follow/LitestarAPI?labelColor=202235&color=edb641&logo=twitter&logoColor=edb641&style=flat)](https://twitter.com/LitestarAPI) [![Blog](https://img.shields.io/badge/Blog-litestar.dev-202235?logo=blogger&labelColor=202235&color=edb641&logoColor=edb641)](https://blog.litestar.dev) |
+| Meta      |     | [![Litestar Project](https://img.shields.io/badge/Litestar%20Org-%E2%AD%90%20Litestar-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://github.com/litestar-org/awesome-litestar) [![Awesome](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/litestar-org/branding/main/assets/awesome.json)](https://github.com/litestar-org/awesome-litestar) [![License - MIT](https://img.shields.io/badge/license-MIT-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://spdx.org/licenses/) [![Litestar Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23edb641.svg?&logo=github&logoColor=edb641&labelColor=202235)](https://github.com/sponsors/litestar-org)                                                                                                                                                            |
 
 <!-- prettier-ignore-end -->
 </div>
 
 > [!IMPORTANT]\
 > [**_Starlite has been renamed to Litestar_**](https://litestar.dev/about/organization.html#litestar-and-starlite)
-
-<!--lint disable double-link-->
 
 # Awesome Litestar
 
@@ -76,7 +75,7 @@ framework
 - [Source Code](https://github.com/litestar-org/litestar) is hosted on GitHub.
 <!--lint ignore awesome-list-item-->
 - Connect with the Litestar community
-  on [Discord](https://discord.gg/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI),
+  on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI),
   and [Reddit](https://www.reddit.com/r/LitestarAPI/).
 - [Litestar Blog](https://blog.litestar.dev/) - The official Litestar blog.
 
@@ -171,33 +170,33 @@ framework
 (Platforms-as-a-Service)
 
 - [Railway](https://railway.app/templates) and search for Litestar
-- [Heroku](https://www.heroku.com/)
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
-- [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
+- [Heroku](https://www.heroku.com/) - Deploy using Heroku
+- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Deploy using AWS
+- [Google App Engine](https://cloud.google.com/appengine/) - Deploy using GCP
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/) - Deploy using Azure
 
 #### IaaS
 
 (Infrastructure-as-a-Service)
 
-- [AWS EC2](https://aws.amazon.com/ec2/)
-- [Google Compute Engine](https://cloud.google.com/compute/)
-- [Digital Ocean](https://www.digitalocean.com/)
+- [AWS EC2](https://aws.amazon.com/ec2/) - Deploy using AWS
+- [Google Compute Engine](https://cloud.google.com/compute/) - Deploy using GCP
+- [Digital Ocean](https://www.digitalocean.com/) - Deploy using Digital Ocean
 
 #### Serverless
 
-##### Frameworks:
+##### Frameworks
 
-- [Chalice](https://github.com/aws/chalice)
+- [Chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS.
 - [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
-- [Vercel](https://vercel.com/)
+- [Vercel](https://vercel.com/) - Serverless Functions and Hosting.
 
-##### Compute:
+##### Compute
 
-- [AWS Lambda](https://aws.amazon.com/lambda/)
-- [Google Cloud Functions](https://cloud.google.com/functions/)
-- [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
-- [Google Cloud Run](https://cloud.google.com/run)
+- [AWS Lambda](https://aws.amazon.com/lambda/) - Serverless compute.
+- [Google Cloud Functions](https://cloud.google.com/functions/) - Serverless compute.
+- [Azure Functions](https://azure.microsoft.com/en-us/products/functions/) - Serverless compute.
+- [Google Cloud Run](https://cloud.google.com/run) - Serverless compute.
 
 </details>
 
