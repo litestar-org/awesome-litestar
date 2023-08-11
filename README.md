@@ -125,8 +125,7 @@ framework
   with batteries (migrations, security, etc).
   - [Litestar Docs - Piccolo](https://docs.litestar.dev/2/usage/databases/piccolo.html) - Documentation on using
     Piccolo with Litestar.
-  - [Starlite (Litestar) Example](https://github.com/sinisaos/litestar-piccolo) - Using Starlite (Litestar) with
-    Piccolo.
+  - [Litestar Example](https://github.com/sinisaos/litestar-piccolo) - Using Litestar withPiccolo.
 
 #### ODMs
 
