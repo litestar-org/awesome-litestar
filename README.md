@@ -74,6 +74,7 @@ framework
 - [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 - [Tutorial](https://docs.litestar.dev/2/tutorials/) on Litestar, for people that are new to Litestar.
 - [Source Code](https://github.com/litestar-org/litestar) is hosted on GitHub.
+<!--lint ignore awesome-list-item-->
 - Connect with the Litestar community
   on [Discord](https://discord.gg/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI),
   and [Reddit](https://www.reddit.com/r/LitestarAPI/).
@@ -182,7 +183,6 @@ framework
 - [AWS EC2](https://aws.amazon.com/ec2/)
 - [Google Compute Engine](https://cloud.google.com/compute/)
 - [Digital Ocean](https://www.digitalocean.com/)
-- [Linode](https://www.linode.com/)
 
 #### Serverless
 
