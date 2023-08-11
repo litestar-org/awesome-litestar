@@ -25,7 +25,7 @@ To run CI locally, you can use the [`Makefile`](./Makefile) to run the linting a
 
 ```bash
 make install # install dev dependencies
-make lint # run awesome-lint, pre-commit
+make lint URL=YOUR_REPO_FORK_URL  # run awesome-lint, pre-commit
 ```
 
 ## Documentation
