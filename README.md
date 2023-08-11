@@ -1,6 +1,6 @@
+<!--lint ignore awesome-git-repo-age-->
+<!--lint ignore awesome-toc-->
 <!--lint disable double-link-->
-<!--lint disable awesome-toc-->
-<!--lint disable awesome-git-repo-age-->
 
 <!-- markdownlint-disable -->
 <p align="center">
