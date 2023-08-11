@@ -12,6 +12,7 @@
 
 <div align="center">
 <!-- prettier-ignore-start -->
+<!-- markdown-link-check-disable -->
 
 | Project   |     | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------- | :-- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,6 +77,7 @@ framework
 
 ### Official Resources
 
+<!-- markdown-link-check-disable -->
 <!--lint ignore awesome-list-item-->
 
 - [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
@@ -87,6 +89,7 @@ framework
 - Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/LitestarAPI/).
 <!--lint ignore-->
 - [Litestar Blog](https://blog.litestar.dev/) - The official Litestar blog.
+<!-- markdown-link-check-enable -->
 
 #### Internal Utils
 
@@ -207,6 +210,7 @@ framework
 
 - [AWS Lambda](https://aws.amazon.com/lambda/) - Serverless compute.
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Serverless compute.
+<!-- markdown-link-check-disable-next-line -->
 - [Azure Functions](https://azure.microsoft.com/en-us/products/functions/) - Serverless compute.
 - [Google Cloud Run](https://cloud.google.com/run) - Serverless compute.
 
