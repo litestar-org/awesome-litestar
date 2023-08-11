@@ -163,6 +163,8 @@ framework
 
 ### Articles
 
+- [Create a Websocket Chat App](https://blog.litestar.dev/creating-a-websockets-chat-in-just-30-lines-with-litestar-2ca0f3767a47) - A quick post on creating a websocket chat app with Litestar in 30 lines of code.
+
 ### Tutorials
 
 ### Talks
