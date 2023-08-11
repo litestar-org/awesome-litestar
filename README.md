@@ -1,4 +1,7 @@
 <!--lint disable double-link-->
+<!--lint disable awesome-toc-->
+<!--lint disable awesome-git-repo-age-->
+
 <!-- markdownlint-disable -->
 <p align="center">
   <!-- github-banner-start -->
@@ -19,6 +22,8 @@
 
 <!-- prettier-ignore-end -->
 </div>
+
+<!--lint disable no-undefined-references-->
 
 > [!IMPORTANT]\
 > [**_Starlite has been renamed to Litestar_**](https://litestar.dev/about/organization.html#litestar-and-starlite)
@@ -169,19 +174,19 @@ framework
 
 (Platforms-as-a-Service)
 
-- [Railway](https://railway.app/templates) and search for Litestar
-- [Heroku](https://www.heroku.com/) - Deploy using Heroku
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Deploy using AWS
-- [Google App Engine](https://cloud.google.com/appengine/) - Deploy using GCP
-- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/) - Deploy using Azure
+- [Railway](https://railway.app/templates) and search for Litestar.
+- [Heroku](https://www.heroku.com/) - Deploy using Heroku.
+- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Deploy using AWS.
+- [Google App Engine](https://cloud.google.com/appengine/) - Deploy using GCP.
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/) - Deploy using Azure.
 
 #### IaaS
 
 (Infrastructure-as-a-Service)
 
-- [AWS EC2](https://aws.amazon.com/ec2/) - Deploy using AWS
-- [Google Compute Engine](https://cloud.google.com/compute/) - Deploy using GCP
-- [Digital Ocean](https://www.digitalocean.com/) - Deploy using Digital Ocean
+- [AWS EC2](https://aws.amazon.com/ec2/) - Deploy using AWS.
+- [Google Compute Engine](https://cloud.google.com/compute/) - Deploy using GCP.
+- [Digital Ocean](https://www.digitalocean.com/) - Deploy using Digital Ocean.
 
 #### Serverless
 
@@ -209,9 +214,9 @@ framework
 
 #### Boilerplate
 
-- [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/)
+- [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
-- [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS
+- [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/zx1KGh?referralCode=BMcs0x)
 
 #### Docker Images
@@ -221,8 +226,8 @@ framework
 
 #### Open Source Projects
 
-- [Network Information API](https://github.com/JacobCoffee/niapi) - Toy app with TailwindCSS and HTMX
-- [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) - Example of using Litestar
+- [Network Information API](https://github.com/JacobCoffee/niapi) - Toy app with TailwindCSS and HTMX.
+- [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) - Example of using Litestar.
   with OAuth2
 
 </details>
