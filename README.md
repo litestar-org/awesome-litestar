@@ -180,7 +180,7 @@ and [Reddit](https://www.reddit.com/r/LitestarAPI/).
 
 (Platforms-as-a-Service)
 
-- [Railway](https://railway.app/templates) and search for Litestar.
+- [Railway](https://railway.app/templates) - Search for `Litestar`.
 - [Heroku](https://www.heroku.com/) - Deploy using Heroku.
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Deploy using AWS.
 - [Google App Engine](https://cloud.google.com/appengine/) - Deploy using GCP.
