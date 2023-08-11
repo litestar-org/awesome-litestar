@@ -83,10 +83,8 @@ framework
 - [Tutorial](https://docs.litestar.dev/2/tutorials/) on Litestar, for people that are new to Litestar.
 <!--lint ignore awesome-list-item-->
 - [Source Code](https://github.com/litestar-org/litestar) is hosted on GitHub.
-<!--lint ignore awesome-list-item-->
-- Connect with the Litestar community
-on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI),
-and [Reddit](https://www.reddit.com/r/LitestarAPI/).
+<!--lint ignore-->
+- Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/LitestarAPI/).
 <!--lint ignore awesome-list-item-->
 - [Litestar Blog](https://blog.litestar.dev/) - The official Litestar blog.
 
