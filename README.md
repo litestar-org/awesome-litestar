@@ -37,6 +37,8 @@ framework
 <details>
   <summary>Table of Contents</summary>
 
+<!--lint ignore awesome-list-item-->
+
 - [Resources](#resources)
   - [Official Resources](#official-resources)
     - [Utils](#internal-utils)
@@ -74,13 +76,18 @@ framework
 
 ### Official Resources
 
+<!--lint ignore awesome-list-item-->
+
 - [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
+<!--lint ignore awesome-list-item-->
 - [Tutorial](https://docs.litestar.dev/2/tutorials/) on Litestar, for people that are new to Litestar.
+<!--lint ignore awesome-list-item-->
 - [Source Code](https://github.com/litestar-org/litestar) is hosted on GitHub.
 <!--lint ignore awesome-list-item-->
 - Connect with the Litestar community
-  on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI),
-  and [Reddit](https://www.reddit.com/r/LitestarAPI/).
+on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI),
+and [Reddit](https://www.reddit.com/r/LitestarAPI/).
+<!--lint ignore awesome-list-item-->
 - [Litestar Blog](https://blog.litestar.dev/) - The official Litestar blog.
 
 #### Internal Utils
@@ -213,8 +220,11 @@ framework
 
 #### Boilerplate
 
+<!--lint ignore awesome-list-item-->
+
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
+  <!--lint ignore awesome-list-item-->
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/zx1KGh?referralCode=BMcs0x)
 
@@ -227,6 +237,6 @@ framework
 
 - [Network Information API](https://github.com/JacobCoffee/niapi) - Toy app with TailwindCSS and HTMX.
 - [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) - Example of using Litestar.
-  with OAuth2
+  with OAuth2.
 
 </details>
