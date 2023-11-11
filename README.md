@@ -116,8 +116,8 @@ framework
 
 ### Auth
 
-- [Starlite Users](https://github.com/LonelyVikingMichael/starlite-users/) - Authentication and user management for the
-  Starlite framework.
+- [Litestar Users](https://github.com/LonelyVikingMichael/litestar-users) - Authentication and user management for the
+  Litestar framework.
 
 ### Databases
 
