@@ -70,7 +70,7 @@ framework
 
 ## Resources
 
-<details>
+<details open>
   <summary>
     <h2>Official Resources</h2>
   </summary>
@@ -102,7 +102,7 @@ framework
 
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>Third-Party Extensions</h2>
   </summary>
@@ -147,7 +147,7 @@ framework
 
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>External Resources</h2>
   </summary>
@@ -175,7 +175,7 @@ framework
 
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>Hosting</h2>
   </summary>
@@ -218,7 +218,7 @@ framework
 
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>Projects</h2>
   </summary>
