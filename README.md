@@ -82,7 +82,7 @@ framework
 
 - [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 <!--lint ignore-->
-- [Tutorial](https://docs.litestar.dev/2/tutorials/) on Litestar, for people that are new to Litestar.
+- [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
 <!--lint ignore-->
 - [Source Code](https://github.com/litestar-org/litestar) is hosted on GitHub.
 <!--lint ignore-->
@@ -93,11 +93,20 @@ framework
 
 #### Internal Utils
 
-- [Litestar MQTT](https://github.com/Alurith/litestar-mqtt) - An extension for the MQTT protocol.
-- [Litestar Websockets](https://docs.litestar.dev/2/usage/websockets.html) - Part of our standard library!
-- [OpenTelemetry Instrumentation](https://docs.litestar.dev/2/usage/metrics/open-telemetry.html) - Part of our standard
+- [Litestar AsyncPG](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.
+- [Litestar Vite](https://github.com/litestar-org/vite-plugin) - A Vite adapter for Litestar.
+- [Litestar Piccolo](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.
+
+##### Built-in Extensions
+
+This section is highlighting built-in extensions that are part of the Litestar standard library
+that you would normally find as third-party extensions in other frameworks.
+
+- [Litestar HTMX](https://docs.litestar.dev/latest/usage/htmx)
+- [Litestar Websockets](https://docs.litestar.dev/latest/usage/websockets.html) - Part of our standard library!
+- [OpenTelemetry Instrumentation](https://docs.litestar.dev/latest/usage/metrics/open-telemetry.html) - Part of our standard
   library!
-- [Prometheus Instrumentation](https://docs.litestar.dev/2/usage/metrics/prometheus.html) - Part of our standard
+- [Prometheus Instrumentation](https://docs.litestar.dev/latest/usage/metrics/prometheus.html) - Part of our standard
   library!
 
 </details>
@@ -108,6 +117,15 @@ framework
   </summary>
 
 ## Third-Party Extensions
+
+### General
+
+- [Litestar MQTT](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
+- [Litestar SAQ](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)
+- [Litestar aioSQL](https://github.com/cofin/litestar-aiosql) -
+  A plugin for the [aiosql](https://github.com/cofin/litestar-granian) database query builder.
+- [Litestar Granian](https://github.com/cofin/litestar-granian) -
+  A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.
 
 ### Admin
 
@@ -126,9 +144,10 @@ framework
 - [Litestar PostgreSQL, Redis, SQLAlchemy](https://github.com/litestar-org/litestar-pg-redis-docker)
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite,
   with batteries (migrations, security, etc).
-  - [Litestar Docs - Piccolo](https://docs.litestar.dev/2/usage/databases/piccolo.html) - Documentation on using
+  - [Litestar Docs - Piccolo](https://docs.litestar.dev/latest/usage/databases/piccolo.html) - Documentation on using
     Piccolo with Litestar.
   - [Litestar Example](https://github.com/sinisaos/litestar-piccolo) - Using Litestar withPiccolo.
+  - [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.
 
 #### ODMs
 
@@ -156,20 +175,23 @@ framework
 
 ### Podcasts
 
-<!--lint disable no-undefined-references-->
-
-> [!NOTE]
-> Coming Soon :)
+- [Talk Python to me #433](https://talkpython.fm/episodes/show/433/litestar-effortlessly-build-performant-apis)
 
 ### Articles
 
-- [Create a Websocket Chat App](https://blog.litestar.dev/creating-a-websockets-chat-in-just-30-lines-with-litestar-2ca0f3767a47) - A quick post on creating a websocket chat app with Litestar in 30 lines of code.
+- [Create a Websocket Chat App](https://blog.litestar.dev/creating-a-websockets-chat-in-just-30-lines-with-litestar-2ca0f3767a47) -
+  A quick post on creating a websocket chat app with Litestar in 30 lines of code.
 
 ### Tutorials
+
+- [**Official** Litestar Tutorial Section](https://docs.litestar.dev/latest/tutorials) - The official Litestar tutorial section.
+- [Litestar video series by R3ap3rPy](https://www.youtube.com/watch?v=MCWwII_REY8&list=PLIO3UV9ODwNDYJVemuMB-obsUNON0-gpV)
 
 ### Talks
 
 ### Videos
+
+- [BugBytes—Litestar for API development with Pydantic](https://www.youtube.com/watch?v=lK234IODJ9A)
 
 ### Best Practices
 
@@ -245,7 +267,6 @@ framework
 #### Open Source Projects
 
 - [Network Information API](https://github.com/JacobCoffee/niapi) - Toy app with TailwindCSS and HTMX.
-- [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) - Example of using Litestar.
-  with OAuth2.
+- [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) - Example of using Litestar with OAuth2.
 
 </details>
