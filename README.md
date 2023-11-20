@@ -103,11 +103,9 @@ This section is highlighting built-in extensions that are part of the Litestar s
 that you would normally find as third-party extensions in other frameworks.
 
 - [Litestar HTMX](https://docs.litestar.dev/latest/usage/htmx)
-- [Litestar Websockets](https://docs.litestar.dev/latest/usage/websockets.html) - Part of our standard library!
-- [OpenTelemetry Instrumentation](https://docs.litestar.dev/latest/usage/metrics/open-telemetry.html) - Part of our standard
-  library!
-- [Prometheus Instrumentation](https://docs.litestar.dev/latest/usage/metrics/prometheus.html) - Part of our standard
-  library!
+- [Litestar Websockets](https://docs.litestar.dev/latest/usage/websockets.html)
+- [OpenTelemetry Instrumentation](https://docs.litestar.dev/latest/usage/metrics/open-telemetry.html)
+- [Prometheus Instrumentation](https://docs.litestar.dev/latest/usage/metrics/prometheus.html)
 
 </details>
 
