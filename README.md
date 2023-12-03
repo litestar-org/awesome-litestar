@@ -124,6 +124,8 @@ that you would normally find as third-party extensions in other frameworks.
   A plugin for the [aiosql](https://github.com/cofin/litestar-granian) database query builder.
 - [Litestar Granian](https://github.com/cofin/litestar-granian) -
   A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.
+- [Litestar SVCS](https://github.com/guacs/litestar-svcs) -
+  A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.
 
 ### Admin
 
