@@ -72,7 +72,7 @@ framework
 
 <details open>
   <summary>
-    <h2>Official Resources</h2>
+    <h2>Official</h2>
   </summary>
 
 ### Official Resources
@@ -111,7 +111,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 <details open>
   <summary>
-    <h2>Third-Party Extensions</h2>
+    <h2>Third-Party</h2>
   </summary>
 
 ## Third-Party Extensions
@@ -169,7 +169,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 <details open>
   <summary>
-    <h2>External Resources</h2>
+    <h2>External</h2>
   </summary>
 
 ### External Resources
@@ -200,7 +200,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 <details open>
   <summary>
-    <h2>Hosting</h2>
+    <h2>Hosting Litestar</h2>
   </summary>
 
 ### Hosting
@@ -243,7 +243,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 <details open>
   <summary>
-    <h2>Projects</h2>
+    <h2>Example and Referece Projects</h2>
   </summary>
 
 ### Projects
