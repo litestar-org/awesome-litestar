@@ -93,9 +93,9 @@ framework
 
 #### Internal Utils
 
-- [`litestar-asynvpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.
+- [`litestar-asynvpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 - [`litestar-vite`](https://github.com/litestar-org/vite-plugin) - A Vite adapter for Litestar.
-- [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.
+- [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 
 ##### Built-in Extensions
 
@@ -119,14 +119,14 @@ that you would normally find as third-party extensions in other frameworks.
 ### General
 
 - [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
-- [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)
+- [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 - [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar
 - [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) -
-  A plugin for the [aiosql](https://github.com/cofin/litestar-granian) database query builder.
+  A plugin for the [aiosql](https://github.com/cofin/litestar-granian) database query builder.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 - [`litestar-granian`](https://github.com/cofin/litestar-granian) -
-  A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.
+  A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 - [`litestar-svcs`](https://github.com/guacs/litestar-svcs) -
-  A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.
+  A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 
 ### Admin
 
@@ -136,7 +136,7 @@ that you would normally find as third-party extensions in other frameworks.
 ### Auth
 
 - [`litestar-users`](https://github.com/LonelyVikingMichael/litestar-users) - Authentication and user management for the
-  Litestar framework.
+  Litestar framework.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 
 ### Databases
 
