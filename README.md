@@ -93,17 +93,17 @@ framework
 
 #### Internal Utils
 
-- [Litestar AsyncPG](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.
-- [Litestar Vite](https://github.com/litestar-org/vite-plugin) - A Vite adapter for Litestar.
-- [Litestar Piccolo](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.
+- [`litestar-asynvpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.
+- [`litestar-vite`](https://github.com/litestar-org/vite-plugin) - A Vite adapter for Litestar.
+- [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.
 
 ##### Built-in Extensions
 
 This section is highlighting built-in extensions that are part of the Litestar standard library
 that you would normally find as third-party extensions in other frameworks.
 
-- [Litestar HTMX](https://docs.litestar.dev/latest/usage/htmx)
-- [Litestar Websockets](https://docs.litestar.dev/latest/usage/websockets.html)
+- [HTMX](https://docs.litestar.dev/latest/usage/htmx)
+- [Websockets](https://docs.litestar.dev/latest/usage/websockets.html)
 - [OpenTelemetry Instrumentation](https://docs.litestar.dev/latest/usage/metrics/open-telemetry.html)
 - [Prometheus Instrumentation](https://docs.litestar.dev/latest/usage/metrics/prometheus.html)
 
@@ -118,14 +118,14 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### General
 
-- [Litestar MQTT](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
-- [Litestar SAQ](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)
-- [Litestar Taskiq](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar
-- [Litestar aioSQL](https://github.com/cofin/litestar-aiosql) -
+- [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
+- [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)
+- [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar
+- [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) -
   A plugin for the [aiosql](https://github.com/cofin/litestar-granian) database query builder.
-- [Litestar Granian](https://github.com/cofin/litestar-granian) -
+- [`litestar-granian`](https://github.com/cofin/litestar-granian) -
   A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.
-- [Litestar SVCS](https://github.com/guacs/litestar-svcs) -
+- [`litestar-svcs`](https://github.com/guacs/litestar-svcs) -
   A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.
 
 ### Admin
@@ -135,14 +135,13 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Auth
 
-- [Litestar Users](https://github.com/LonelyVikingMichael/litestar-users) - Authentication and user management for the
+- [`litestar-users`](https://github.com/LonelyVikingMichael/litestar-users) - Authentication and user management for the
   Litestar framework.
 
 ### Databases
 
 #### ORMs
 
-- [Litestar PostgreSQL, Redis, SQLAlchemy](https://github.com/litestar-org/litestar-pg-redis-docker)
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite,
   with batteries (migrations, security, etc).
   - [Litestar Docs - Piccolo](https://docs.litestar.dev/latest/usage/databases/piccolo.html) - Documentation on using
@@ -252,6 +251,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 <!--lint ignore awesome-list-item-->
 
+- [Litestar PostgreSQL, Redis, SQLAlchemy](https://github.com/litestar-org/litestar-pg-redis-docker)
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
   <!--lint ignore awesome-list-item-->
