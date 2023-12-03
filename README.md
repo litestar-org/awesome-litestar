@@ -120,6 +120,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [Litestar MQTT](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
 - [Litestar SAQ](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)
+- [Litestar Taskiq](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar
 - [Litestar aioSQL](https://github.com/cofin/litestar-aiosql) -
   A plugin for the [aiosql](https://github.com/cofin/litestar-granian) database query builder.
 - [Litestar Granian](https://github.com/cofin/litestar-granian) -
