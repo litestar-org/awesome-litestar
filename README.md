@@ -127,11 +127,15 @@ that you would normally find as third-party extensions in other frameworks.
   A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 - [`litestar-svcs`](https://github.com/guacs/litestar-svcs) -
   A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
+- [Litestar-SAQ-HTMX](https://github.com/euri10/litestar_saq_htmx) -
+  Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor
+
 
 ### Admin
 
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo
   ORM.
+- [Litestar SQLAdmin](https://github.com/cemrehancavdar/sqladmin-litestar) - SQLAlchemy Admin, ported to Litestar
 
 ### Auth
 
