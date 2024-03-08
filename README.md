@@ -160,6 +160,10 @@ that you would normally find as third-party extensions in other frameworks.
 > [!NOTE]
 > TODO
 
+### Monitoring
+
+- [`apitally`](https://github.com/apitally/python-client) - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
+
 ### Other
 
 #### Developer Tools
