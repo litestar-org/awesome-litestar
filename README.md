@@ -93,7 +93,7 @@ framework
 
 #### Internal Utils
 
-- [`litestar-asynvpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
+- [`litestar-asyncpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 - [`litestar-vite`](https://github.com/litestar-org/vite-plugin) - A Vite adapter for Litestar.
 - [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.  [![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins.html)
 
