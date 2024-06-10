@@ -189,6 +189,8 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [Create a Websocket Chat App](https://blog.litestar.dev/creating-a-websockets-chat-in-just-30-lines-with-litestar-2ca0f3767a47) -
   A quick post on creating a websocket chat app with Litestar in 30 lines of code.
+- [Creating a universal template (Russian)](https://habr.com/ru/companies/pt/articles/820171/) -
+  An article about template built on the principles of clean architecture using Litestar, SqlAlchemy, Pydantic, dishka, FastStream
 
 ### Tutorials
 
@@ -259,7 +261,8 @@ that you would normally find as third-party extensions in other frameworks.
 
 <!--lint ignore awesome-list-item-->
 
-- [Litestar PostgreSQL, Redis, SQLAlchemy](https://github.com/litestar-org/litestar-pg-redis-docker)
+- [Litestar, PostgreSQL, Redis, SQLAlchemy](https://github.com/litestar-org/litestar-pg-redis-docker)
+- [Litestar, FastStream, dishka, SQLAlchemy](https://github.com/Sehat1137/litestar-dishka-faststream)
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
   <!--lint ignore awesome-list-item-->
