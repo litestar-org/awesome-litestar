@@ -135,7 +135,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo
   ORM.
-- [Litestar SQLAdmin](https://github.com/cemrehancavdar/sqladmin-litestar) - SQLAlchemy Admin, ported to Litestar
+- [SQLAdminPlugin](https://github.com/peterschutt/sqladmin-litestar-plugin) - Integrates SQLAdmin with a Litestar application.
 
 ### Auth
 
