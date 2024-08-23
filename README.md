@@ -252,7 +252,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 <details open>
   <summary>
-    <h2>Example and Referece Projects</h2>
+    <h2>Example and Reference Projects</h2>
   </summary>
 
 ### Projects
