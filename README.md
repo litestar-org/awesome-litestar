@@ -170,7 +170,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### Email
 
-#### Graphql
+#### GraphQL
 
 - [`strawberry-graphql`](https://strawberry.rocks/docs/integrations/litestar) - A Strawberry integration for Litestar to use graphql in your applications.
 
