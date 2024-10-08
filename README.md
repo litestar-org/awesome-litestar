@@ -49,7 +49,7 @@ framework
     - [Databases](#databases)
     - [Developer Tools](#developer-tools)
     - [Email](#email)
-    - [Graphql](#graphql)
+    - [GraphQL](#graphql)
     - [Utils](#utils)
   - [External Resources](#external-resources)
     - [Podcasts](#podcasts)
