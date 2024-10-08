@@ -49,6 +49,7 @@ framework
     - [Databases](#databases)
     - [Developer Tools](#developer-tools)
     - [Email](#email)
+    - [Graphql](#graphql)
     - [Utils](#utils)
   - [External Resources](#external-resources)
     - [Podcasts](#podcasts)
@@ -130,7 +131,6 @@ that you would normally find as third-party extensions in other frameworks.
 - [Litestar-SAQ-HTMX](https://github.com/euri10/litestar_saq_htmx) -
   Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor
 
-
 ### Admin
 
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo
@@ -169,6 +169,10 @@ that you would normally find as third-party extensions in other frameworks.
 #### Developer Tools
 
 #### Email
+
+#### Graphql
+
+- [`strawberry-graphql`](https://strawberry.rocks/docs/integrations/litestar) - A Strawberry integration for Litestar to use graphql in your applications.
 
 #### Utils
 
