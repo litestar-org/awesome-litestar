@@ -172,7 +172,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### GraphQL
 
-- [`strawberry-graphql`](https://strawberry.rocks/docs/integrations/litestar) - A Strawberry integration for Litestar to use graphql in your applications.
+- [`strawberry-graphql`](https://strawberry.rocks/docs/integrations/litestar) - A Strawberry integration for Litestar to use GraphQL in your applications.
 
 #### Utils
 
