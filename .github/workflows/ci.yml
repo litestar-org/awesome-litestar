@@ -42,4 +42,4 @@ jobs:
           ruby-version: 2.7
 
       - run: gem install awesome_bot
-      - run: awesome_bot README.md --allow 302,307,403,429 --allow-ssl --allow-dupe
+      - run: awesome_bot README.md --allow 302,307,429 --allow-ssl --allow-dupe --white-list https://www.reddit.com/r/litestarapi
