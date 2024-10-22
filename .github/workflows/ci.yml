@@ -1,20 +1,31 @@
 name: CI
 
 on:
-  - push
-  - pull_request
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+      - main
+
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
 
 jobs:
   awesome-lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v4
         with:
-          node-version: 15
+          node-version: 18
 
       - run: npm install --global awesome-lint
       - run: awesome-lint README.md
@@ -22,7 +33,7 @@ jobs:
   awesome-bot:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -31,4 +42,4 @@ jobs:
           ruby-version: 2.7
 
       - run: gem install awesome_bot
-      - run: awesome_bot README.md --allow 302,307,429 --allow-ssl --allow-dupe
+      - run: awesome_bot README.md --allow 302,307,429 --allow-ssl --allow-dupe --white-list https://www.reddit.com/r/litestarapi
