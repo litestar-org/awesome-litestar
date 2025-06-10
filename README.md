@@ -121,6 +121,7 @@ that you would normally find as third-party extensions in other frameworks.
 - [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
 - [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)<sup>*</sup>
 - [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
+- [`litestar-psycopg`](https://github.com/Kumokage/litestar-psycopg) - A plugin for the [Psycopg](https://www.psycopg.org/psycopg3/docs/) database driver.
 - [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) - A plugin for the [aiosql](https://github.com/nackjicholson/aiosql) database query builder.<sup>*</sup>
 - [`litestar-granian`](https://github.com/cofin/litestar-granian) - A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.<sup>*</sup>
 - [`litestar-svcs`](https://github.com/guacs/litestar-svcs) - A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.<sup>*</sup>
