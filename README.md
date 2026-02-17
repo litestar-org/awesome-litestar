@@ -263,6 +263,8 @@ that you would normally find as third-party extensions in other frameworks.
   <!--lint ignore awesome-list-item-->
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/zx1KGh?referralCode=BMcs0x)
+- [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template)
+- [Hexagonal Architecture Litestar Project Example](https://github.com/Peopl3s/litestar-hexagonal-architecture-example)
 
 #### Docker Images
 
