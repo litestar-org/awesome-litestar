@@ -14,11 +14,11 @@
 <!-- prettier-ignore-start -->
 <!-- markdown-link-check-disable -->
 
-| Project   |     | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| --------- | :-- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CI/CD     |     | [![CI](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml) [![Link Check](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Project   |     | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| --------- | :-- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CI/CD     |     | [![CI](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml) [![Link Check](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Community |     | [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/litestarapi?label=r%2FLitestar&logo=reddit&labelColor=202235&color=edb641&logoColor=edb641)](https://www.reddit.com/r/litestarapi) [![Discord](https://img.shields.io/discord/919193495116337154?labelColor=202235&color=edb641&label=chat%20on%20discord&logo=discord&logoColor=edb641)](https://discord.com/invite/X3FJqy8d2j) [![Matrix](https://img.shields.io/badge/chat%20on%20Matrix-bridged-202235?labelColor=202235&color=edb641&logo=matrix&logoColor=edb641)](https://matrix.to/#/#litestar:matrix.org) [![Twitter](https://img.shields.io/twitter/follow/LitestarAPI?labelColor=202235&color=edb641&logo=twitter&logoColor=edb641&style=flat)](https://twitter.com/LitestarAPI) [![Blog](https://img.shields.io/badge/Blog-litestar.dev-202235?logo=blogger&labelColor=202235&color=edb641&logoColor=edb641)](https://blog.litestar.dev) |
-| Meta      |     | [![Litestar Project](https://img.shields.io/badge/Litestar%20Org-%E2%AD%90%20Litestar-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://github.com/litestar-org/awesome-litestar) [![Awesome](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/litestar-org/branding/main/assets/awesome.json)](https://github.com/litestar-org/awesome-litestar) [![License - MIT](https://img.shields.io/badge/license-MIT-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://spdx.org/licenses/) [![Litestar Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23edb641.svg?&logo=github&logoColor=edb641&labelColor=202235)](https://github.com/sponsors/litestar-org)                                                                                                                                                            |
+| Meta      |     | [![Litestar Project](https://img.shields.io/badge/Litestar%20Org-%E2%AD%90%20Litestar-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://github.com/litestar-org/awesome-litestar) [![Awesome](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/litestar-org/branding/main/assets/awesome.json)](https://github.com/litestar-org/awesome-litestar) [![License - MIT](https://img.shields.io/badge/license-MIT-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://spdx.org/licenses/) [![Litestar Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23edb641.svg?&logo=github&logoColor=edb641&labelColor=202235)](https://github.com/sponsors/litestar-org)                                                                                                                                                                |
 
 <!-- prettier-ignore-end -->
 </div>
@@ -35,39 +35,48 @@
 Effortlessly build performant APIs with [Litestar](https://litestar.dev/) - The powerful, lightweight and flexible ASGI
 framework
 
-[![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins/index.html) repositories are marked with <sup>*</sup> to indicate they extend functionality through the plugin system.
+[![Litestar Plugin Architecture](https://img.shields.io/badge/Litestar%20Plugin-%E2%AD%90%20Enabled-202235.svg?logo=python&labelColor=202235&color=edb641&logoColor=edb641)](https://docs.litestar.dev/latest/usage/plugins/index.html) repositories are marked with <sup>\*</sup> to indicate they extend functionality through the plugin system.
 
 <details>
   <summary>Table of Contents</summary>
 
 <!--lint ignore awesome-list-item-->
 
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-    - [Utils](#internal-utils)
+- [Awesome Litestar](#awesome-litestar)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+      - [Internal Utils](#internal-utils)
+        - [Built-in Extensions](#built-in-extensions)
   - [Third-Party Extensions](#third-party-extensions)
+    - [General](#general)
     - [Admin](#admin)
     - [Auth](#auth)
     - [Databases](#databases)
-    - [Developer Tools](#developer-tools)
-    - [Email](#email)
-    - [GraphQL](#graphql)
-    - [Utils](#utils)
-  - [External Resources](#external-resources)
+      - [ORMs](#orms)
+      - [ODMs](#odms)
+    - [Monitoring](#monitoring)
+    - [Other](#other)
+      - [Developer Tools](#developer-tools)
+      - [Email](#email)
+      - [GraphQL](#graphql)
+      - [Utils](#utils)
+    - [External Resources](#external-resources)
     - [Podcasts](#podcasts)
     - [Articles](#articles)
     - [Tutorials](#tutorials)
     - [Talks](#talks)
     - [Videos](#videos)
     - [Best Practices](#best-practices)
-  - [Hosting](#hosting)
-    - [PaaS](#paas)
-    - [IaaS](#iaas)
-    - [Serverless](#serverless)
-  - [Projects](#projects)
-    - [Boilerplate](#boilerplate)
-    - [Docker Images](#docker-images)
-    - [Open Source Projects](#open-source-projects)
+    - [Hosting](#hosting)
+      - [PaaS](#paas)
+      - [IaaS](#iaas)
+      - [Serverless](#serverless)
+        - [Frameworks](#frameworks)
+        - [Compute](#compute)
+    - [Projects](#projects)
+      - [Boilerplate](#boilerplate)
+      - [Docker Images](#docker-images)
+      - [Open Source Projects](#open-source-projects)
 
 </details>
 
@@ -92,9 +101,9 @@ framework
 
 #### Internal Utils
 
-- [`litestar-asyncpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.<sup>*</sup>
+- [`litestar-asyncpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.<sup>\*</sup>
 - [`litestar-vite`](https://github.com/litestar-org/vite-plugin) - A Vite adapter for Litestar.
-- [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.<sup>*</sup>
+- [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.<sup>\*</sup>
 
 ##### Built-in Extensions
 
@@ -119,12 +128,12 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [`dishka`](https://github.com/reagento/dishka) - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
 - [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
-- [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)<sup>*</sup>
+- [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)<sup>\*</sup>
 - [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
 - [`litestar-psycopg`](https://github.com/Kumokage/litestar-psycopg) - A plugin for the [Psycopg](https://www.psycopg.org/psycopg3/docs/) database driver.
-- [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) - A plugin for the [aiosql](https://github.com/nackjicholson/aiosql) database query builder.<sup>*</sup>
-- [`litestar-granian`](https://github.com/cofin/litestar-granian) - A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.<sup>*</sup>
-- [`litestar-svcs`](https://github.com/guacs/litestar-svcs) - A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.<sup>*</sup>
+- [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) - A plugin for the [aiosql](https://github.com/nackjicholson/aiosql) database query builder.<sup>\*</sup>
+- [`litestar-granian`](https://github.com/cofin/litestar-granian) - A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.<sup>\*</sup>
+- [`litestar-svcs`](https://github.com/guacs/litestar-svcs) - A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.<sup>\*</sup>
 - [`litestar-saq-htmx`](https://github.com/euri10/litestar_saq_htmx) - Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.
 
 ### Admin
@@ -137,7 +146,7 @@ that you would normally find as third-party extensions in other frameworks.
 ### Auth
 
 - [`litestar-users`](https://github.com/LonelyVikingMichael/litestar-users) - Authentication and user management for the
-  Litestar framework.<sup>*</sup>
+  Litestar framework.<sup>\*</sup>
 
 ### Databases
 
@@ -158,7 +167,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Monitoring
 
-- [`apitally`](https://github.com/apitally/apitally-py ) - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>*</sup>
+- [`apitally`](https://github.com/apitally/apitally-py) - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
 
 ### Other
 
@@ -191,6 +200,7 @@ that you would normally find as third-party extensions in other frameworks.
 - [Creating a universal template (Russian)](https://habr.com/ru/companies/pt/articles/820171/) - An article about template built on the principles of clean architecture using Litestar, SqlAlchemy, Pydantic, dishka, FastStream.
 
 ### Tutorials
+
 - [Litestar video series by R3ap3rPy](https://www.youtube.com/watch?v=MCWwII_REY8&list=PLIO3UV9ODwNDYJVemuMB-obsUNON0-gpV)
 
 ### Talks
@@ -259,7 +269,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
-- [Litestar, FastStream, dishka, SQLAlchemy](https://github.com/Sehat1137/litestar-dishka-faststream)
+- [Example Litestar Service](https://github.com/andy-takker/example-litestar-service) - Example Litestar app with database, nats, rate limits, logging etc.
   <!--lint ignore awesome-list-item-->
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/zx1KGh?referralCode=BMcs0x)
