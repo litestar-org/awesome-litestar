@@ -192,6 +192,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Tutorials
 - [Litestar video series by R3ap3rPy](https://www.youtube.com/watch?v=MCWwII_REY8&list=PLIO3UV9ODwNDYJVemuMB-obsUNON0-gpV)
+- [Litestar Tutorial series by Ssali Jonathan](https://www.youtube.com/playlist?list=PLEt8Tae2spYncMXg-YJZfjk5Ls2PfQOBS)
 
 ### Talks
 
