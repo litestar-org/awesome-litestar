@@ -42,41 +42,32 @@ framework
 
 <!--lint ignore awesome-list-item-->
 
-- [Awesome Litestar](#awesome-litestar)
-  - [Resources](#resources)
-    - [Official Resources](#official-resources)
-      - [Internal Utils](#internal-utils)
-        - [Built-in Extensions](#built-in-extensions)
+- [Resources](#resources)
+  - [Official Resources](#official-resources)
+    - [Utils](#internal-utils)
   - [Third-Party Extensions](#third-party-extensions)
-    - [General](#general)
     - [Admin](#admin)
     - [Auth](#auth)
     - [Databases](#databases)
-      - [ORMs](#orms)
-      - [ODMs](#odms)
-    - [Monitoring](#monitoring)
-    - [Other](#other)
-      - [Developer Tools](#developer-tools)
-      - [Email](#email)
-      - [GraphQL](#graphql)
-      - [Utils](#utils)
-    - [External Resources](#external-resources)
+    - [Developer Tools](#developer-tools)
+    - [Email](#email)
+    - [GraphQL](#graphql)
+    - [Utils](#utils)
+  - [External Resources](#external-resources)
     - [Podcasts](#podcasts)
     - [Articles](#articles)
     - [Tutorials](#tutorials)
     - [Talks](#talks)
     - [Videos](#videos)
     - [Best Practices](#best-practices)
-    - [Hosting](#hosting)
-      - [PaaS](#paas)
-      - [IaaS](#iaas)
-      - [Serverless](#serverless)
-        - [Frameworks](#frameworks)
-        - [Compute](#compute)
-    - [Projects](#projects)
-      - [Boilerplate](#boilerplate)
-      - [Docker Images](#docker-images)
-      - [Open Source Projects](#open-source-projects)
+  - [Hosting](#hosting)
+    - [PaaS](#paas)
+    - [IaaS](#iaas)
+    - [Serverless](#serverless)
+  - [Projects](#projects)
+    - [Boilerplate](#boilerplate)
+    - [Docker Images](#docker-images)
+    - [Open Source Projects](#open-source-projects)
 
 </details>
 
@@ -201,6 +192,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Tutorials
 - [Litestar video series by R3ap3rPy](https://www.youtube.com/watch?v=MCWwII_REY8&list=PLIO3UV9ODwNDYJVemuMB-obsUNON0-gpV)
+- [Litestar Tutorial series by Ssali Jonathan](https://www.youtube.com/playlist?list=PLEt8Tae2spYncMXg-YJZfjk5Ls2PfQOBS)
 
 ### Talks
 
