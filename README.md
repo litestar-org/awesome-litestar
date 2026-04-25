@@ -93,8 +93,19 @@ framework
 #### Internal Utils
 
 - [`litestar-asyncpg`](https://github.com/litestar-org/litestar-asyncpg) - A plugin for the AsyncPG database driver.<sup>*</sup>
-- [`litestar-vite`](https://github.com/litestar-org/vite-plugin) - A Vite adapter for Litestar.
+- [`litestar-vite`](https://github.com/litestar-org/litestar-vite) - A Vite adapter for Litestar.<sup>*</sup>
 - [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) - A Piccolo ORM adapter for Litestar.<sup>*</sup>
+- [`litestar-htmx`](https://github.com/litestar-org/litestar-htmx) - A plugin for HTMX integration.<sup>*</sup>
+- [`litestar-email`](https://github.com/litestar-org/litestar-email) - Email integration with pluggable backends (SMTP, Resend, SendGrid, Mailgun).<sup>*</sup>
+- [`litestar-oracledb`](https://github.com/litestar-org/litestar-oracledb) - An Oracle Database plugin for Litestar.<sup>*</sup>
+- [`litestar-django`](https://github.com/litestar-org/litestar-django) - Django model support for Litestar.<sup>*</sup>
+- [`litestar-skills`](https://github.com/litestar-org/litestar-skills) - First-party agent skills, plugins, subagents, and slash commands for Litestar and its ecosystem; installs across Claude Code, Codex CLI, Cursor, Gemini CLI, and OpenCode.
+- [`advanced-alchemy`](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy with first-party Litestar integration.
+- [`sqlspec`](https://github.com/litestar-org/sqlspec) - A query mapper for Python with first-party adapters for Litestar, FastAPI, Flask, and Starlette.
+- [`polyfactory`](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation.
+- [`pytest-databases`](https://github.com/litestar-org/pytest-databases) - Reusable database fixtures for any and all databases.
+- [`fast-query-parsers`](https://github.com/litestar-org/fast-query-parsers) - Ultra-fast query string and url-encoded form-data parsers.
+- [`type-lens`](https://github.com/litestar-org/type-lens) - Runtime type introspection utilities.
 
 ##### Built-in Extensions
 
@@ -126,6 +137,9 @@ that you would normally find as third-party extensions in other frameworks.
 - [`litestar-granian`](https://github.com/cofin/litestar-granian) - A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.<sup>*</sup>
 - [`litestar-svcs`](https://github.com/guacs/litestar-svcs) - A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.<sup>*</sup>
 - [`litestar-saq-htmx`](https://github.com/euri10/litestar_saq_htmx) - Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.
+- [`litestar-mcp`](https://github.com/cofin/litestar-mcp) - A plugin exposing route handlers as Model Context Protocol (MCP) tools and resources for AI agents.<sup>*</sup>
+- [`litestar-socketify`](https://github.com/cofin/litestar-socketify) - A plugin for the [Socketify](https://github.com/cirospaciari/socketify.py) HTTP server.<sup>*</sup>
+- [`litestar-httpx-oauth`](https://github.com/cofin/litestar-httpx-oauth) - HTTPX OAuth integration for Litestar.<sup>*</sup>
 
 ### Admin
 
@@ -260,6 +274,9 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
+- [Litestar Fullstack with Inertia.js](https://github.com/litestar-org/litestar-fullstack-inertia) - A fully-functional reference application using Litestar, Inertia.js, and Advanced Alchemy.
+- [Litestar Hello World](https://github.com/litestar-org/litestar-hello-world) - A minimal implementation of a Litestar application.
+- [Litestar Ping CRM](https://github.com/cofin/litestar-pingcrm) - Ping CRM (Inertia.js) reference implementation for Litestar.
 - [Litestar, FastStream, dishka, SQLAlchemy](https://github.com/Sehat1137/litestar-dishka-faststream)
   <!--lint ignore awesome-list-item-->
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
@@ -278,5 +295,6 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [Network Information API](https://github.com/JacobCoffee/niapi) - Toy app with TailwindCSS and HTMX.
 - [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) - Example of using Litestar with OAuth2.
+- [Oracle DB + Vertex AI Demo](https://github.com/cofin/oracledb-vertexai-demo) - Reference application using Google ADK and Oracle Database.
 
 </details>
