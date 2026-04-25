@@ -130,12 +130,12 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [`dishka`](https://github.com/reagento/dishka) - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
 - [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
-- [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)<sup>*</sup>
+- [`litestar-saq`](https://github.com/litestar-org/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq).<sup>*</sup>
 - [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
 - [`litestar-psycopg`](https://github.com/Kumokage/litestar-psycopg) - A plugin for the [Psycopg](https://www.psycopg.org/psycopg3/docs/) database driver.
 - [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) - A plugin for the [aiosql](https://github.com/nackjicholson/aiosql) database query builder.<sup>*</sup>
 - [`litestar-granian`](https://github.com/cofin/litestar-granian) - A plugin for the [Granian](https://github.com/emmett-framework/granian) HTTP server, written in Rust.<sup>*</sup>
-- [`litestar-svcs`](https://github.com/guacs/litestar-svcs) - A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.<sup>*</sup>
+- [`litestar-svcs`](https://github.com/vkcku/litestar-svcs) - A plugin for the [SVCS](https://github.com/hynek/svcs) service locater/dependency injection library.<sup>*</sup>
 - [`litestar-saq-htmx`](https://github.com/euri10/litestar_saq_htmx) - Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.
 - [`litestar-mcp`](https://github.com/cofin/litestar-mcp) - A plugin exposing route handlers as Model Context Protocol (MCP) tools and resources for AI agents.<sup>*</sup>
 - [`litestar-socketify`](https://github.com/cofin/litestar-socketify) - A plugin for the [Socketify](https://github.com/cirospaciari/socketify.py) HTTP server.<sup>*</sup>
@@ -150,7 +150,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Auth
 
-- [`litestar-users`](https://github.com/LonelyVikingMichael/litestar-users) - Authentication and user management for the
+- [`litestar-users`](https://github.com/mvbosch/litestar-users) - Authentication and user management for the
   Litestar framework.<sup>*</sup>
 
 ### Databases
@@ -229,10 +229,10 @@ that you would normally find as third-party extensions in other frameworks.
 
 (Platforms-as-a-Service)
 
-- [Railway](https://railway.app/templates) - Search for `Litestar`.
+- [Railway](https://railway.com/templates) - Search for `Litestar`.
 - [Heroku](https://www.heroku.com/) - Deploy using Heroku.
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Deploy using AWS.
-- [Google App Engine](https://cloud.google.com/appengine/) - Deploy using GCP.
+- [Google App Engine](https://cloud.google.com/appengine) - Deploy using GCP.
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/) - Deploy using Azure.
 
 #### IaaS
@@ -240,7 +240,7 @@ that you would normally find as third-party extensions in other frameworks.
 (Infrastructure-as-a-Service)
 
 - [AWS EC2](https://aws.amazon.com/ec2/) - Deploy using AWS.
-- [Google Compute Engine](https://cloud.google.com/compute/) - Deploy using GCP.
+- [Google Compute Engine](https://cloud.google.com/compute) - Deploy using GCP.
 - [Digital Ocean](https://www.digitalocean.com/) - Deploy using Digital Ocean.
 
 #### Serverless
@@ -254,7 +254,7 @@ that you would normally find as third-party extensions in other frameworks.
 ##### Compute
 
 - [AWS Lambda](https://aws.amazon.com/lambda/) - Serverless compute.
-- [Google Cloud Functions](https://cloud.google.com/functions/) - Serverless compute.
+- [Google Cloud Functions](https://cloud.google.com/functions) - Serverless compute.
 <!-- markdown-link-check-disable-next-line -->
 - [Azure Functions](https://azure.microsoft.com/en-us/products/functions/) - Serverless compute.
 - [Google Cloud Run](https://cloud.google.com/run) - Serverless compute.
@@ -273,14 +273,12 @@ that you would normally find as third-party extensions in other frameworks.
 <!--lint ignore awesome-list-item-->
 
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
-  - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
+  - [![Deployed on Railway](https://railway.com/button.svg)](https://railway.com/template/KmHMvQ?referralCode=BMcs0x)
 - [Litestar Fullstack with Inertia.js](https://github.com/litestar-org/litestar-fullstack-inertia) - A fully-functional reference application using Litestar, Inertia.js, and Advanced Alchemy.
 - [Litestar Hello World](https://github.com/litestar-org/litestar-hello-world) - A minimal implementation of a Litestar application.
 - [Litestar Ping CRM](https://github.com/cofin/litestar-pingcrm) - Ping CRM (Inertia.js) reference implementation for Litestar.
-- [Litestar, FastStream, dishka, SQLAlchemy](https://github.com/Sehat1137/litestar-dishka-faststream)
-  <!--lint ignore awesome-list-item-->
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
-  - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/zx1KGh?referralCode=BMcs0x)
+  - [![Deployed on Railway](https://railway.com/button.svg)](https://railway.com/template/zx1KGh?referralCode=BMcs0x)
 - [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template)
 - [Hexagonal Architecture Litestar Project Example](https://github.com/Peopl3s/litestar-hexagonal-architecture-example)
 
