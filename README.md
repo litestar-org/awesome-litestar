@@ -273,12 +273,12 @@ that you would normally find as third-party extensions in other frameworks.
 <!--lint ignore awesome-list-item-->
 
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
-  - [![Deployed on Railway](https://railway.com/button.svg)](https://railway.com/template/KmHMvQ?referralCode=BMcs0x)
+  - [![Deployed on Railway](https://railway.com/button.svg)](https://railway.com/deploy/KmHMvQ?referralCode=BMcs0x)
 - [Litestar Fullstack with Inertia.js](https://github.com/litestar-org/litestar-fullstack-inertia) - A fully-functional reference application using Litestar, Inertia.js, and Advanced Alchemy.
 - [Litestar Hello World](https://github.com/litestar-org/litestar-hello-world) - A minimal implementation of a Litestar application.
 - [Litestar Ping CRM](https://github.com/cofin/litestar-pingcrm) - Ping CRM (Inertia.js) reference implementation for Litestar.
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
-  - [![Deployed on Railway](https://railway.com/button.svg)](https://railway.com/template/zx1KGh?referralCode=BMcs0x)
+  - [![Deployed on Railway](https://railway.com/button.svg)](https://railway.com/deploy/zx1KGh?referralCode=BMcs0x)
 - [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template)
 - [Hexagonal Architecture Litestar Project Example](https://github.com/Peopl3s/litestar-hexagonal-architecture-example)
 
