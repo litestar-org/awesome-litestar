@@ -138,6 +138,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [`litestar-users`](https://github.com/LonelyVikingMichael/litestar-users) - Authentication and user management for the
   Litestar framework.<sup>*</sup>
+- [`litestar-auth`](https://github.com/ZYLVEXT/litestar-auth) - Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.
 
 ### Databases
 
