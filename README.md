@@ -118,6 +118,7 @@ that you would normally find as third-party extensions in other frameworks.
 ### General
 
 - [`dishka`](https://github.com/reagento/dishka) - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
+- [`modern-di`](https://github.com/modern-python/modern-di) - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar).
 - [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) - A plugin for the MQTT protocol.
 - [`litestar-saq`](https://github.com/cofin/litestar-saq) - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq)<sup>*</sup>
 - [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
