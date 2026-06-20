@@ -262,6 +262,7 @@ that you would normally find as third-party extensions in other frameworks.
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/KmHMvQ?referralCode=BMcs0x)
 - [Litestar, FastStream, dishka, SQLAlchemy](https://github.com/Sehat1137/litestar-dishka-faststream)
 - [Example Litestar Service](https://github.com/andy-takker/example-litestar-service) - Production-ready Litestar service template with clean architecture, dishka DI, JWT auth with RBAC, NATS via FastStream, and observability.
+- [Litestar + SQLAlchemy 2 + PostgreSQL Template](https://github.com/modern-python/litestar-sqlalchemy-template) - Dockerized starter with dependency injection and Alembic. Made by [@modern-python](https://github.com/modern-python).
   <!--lint ignore awesome-list-item-->
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
   - [![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/template/zx1KGh?referralCode=BMcs0x)
