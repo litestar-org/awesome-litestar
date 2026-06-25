@@ -261,6 +261,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 - [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) - Made by [@cofin](https://github.com/cofin/).
 - [Example Litestar Service](https://github.com/andy-takker/example-litestar-service) - Production-ready Litestar service template with clean architecture, dishka DI, JWT auth with RBAC, NATS via FastStream, and observability.
+- [Litestar + SQLAlchemy 2 + PostgreSQL Template](https://github.com/modern-python/litestar-sqlalchemy-template) - Dockerized starter with dependency injection and Alembic. Made by [@modern-python](https://github.com/modern-python).
   <!--lint ignore awesome-list-item-->
 - [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) - Basic Litestar app with TailwindCSS.
 - [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template)
