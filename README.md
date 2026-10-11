@@ -165,6 +165,8 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Other
 
+- [`interlock-cb`](https://github.com/bagowix/interlock) - A modern circuit breaker for Python with sync and async support and a [Litestar integration](https://github.com/bagowix/interlock/blob/main/docs/integrations/litestar.md).
+
 #### Developer Tools
 
 #### Email
