@@ -300,5 +300,6 @@ that you would normally find as third-party extensions in other frameworks.
 - [Network Information API](https://github.com/JacobCoffee/niapi) - Toy app with TailwindCSS and HTMX.
 - [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) - Example of using Litestar with OAuth2.
 - [Oracle DB + Vertex AI Demo](https://github.com/cofin/oracledb-vertexai-demo) - Reference application using Google ADK and Oracle Database.
+- [Cloud in a Bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) - Self-hosted platform for deploying Git-sourced apps on your own server, with a Litestar control plane and dashboard.
 
 </details>
