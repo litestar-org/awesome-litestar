@@ -147,6 +147,7 @@ that you would normally find as third-party extensions in other frameworks.
 - [adminsite](https://github.com/nimaxin/adminsite) - Admin panel for SQLAlchemy 2.0, mounted straight into Litestar.
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo
   ORM.
+- [quite-admin](https://github.com/lyova24/quite-admin) - An embeddable admin for Litestar with multiple ORM adapters and SQL reflection.
 - [SQLAdminPlugin](https://github.com/peterschutt/sqladmin-litestar-plugin) - Integrates SQLAdmin with a Litestar application.
 - [StarletteAdminPlugin](https://github.com/noamsto/starlette-admin-litestar-plugin) - Integrates Starlette Admin with a Litestar application.
 
