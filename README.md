@@ -191,6 +191,8 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### Utils
 
+- [`imgproxykit`](https://github.com/wemake-services/imgproxykit) - A typed Python toolkit for building imgproxy URLs with a Litestar plugin for client injection.<sup>*</sup>
+
 </details>
 
 <details open>
