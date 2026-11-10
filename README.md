@@ -183,6 +183,8 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### Developer Tools
 
+- [`pytest-queryguard`](https://github.com/MaciejZiel/pytest-queryguard) - A pytest plugin that fails tests sending N+1 queries through SQLAlchemy 2 and enforces per-test query budgets, with a [Litestar recipe](https://maciejziel.github.io/pytest-queryguard/recipes-litestar.html).
+
 #### Email
 
 #### GraphQL
