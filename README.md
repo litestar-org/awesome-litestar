@@ -175,7 +175,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Monitoring
 
-- [`apitally`](https://github.com/apitally/apitally-py ) - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>*</sup>
+- [`apitally`](https://github.com/apitally/apitally-py) - An OpenTelemetry-based plugin for API monitoring with [Apitally](https://apitally.io/litestar), including metrics, request logs, traces and alerts.<sup>*</sup>
 
 ### Other
 
